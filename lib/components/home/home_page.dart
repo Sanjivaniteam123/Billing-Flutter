@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
                       ? 8
                       : 12,
           child: Container(
-            color: Color.fromARGB(255, 154, 251, 158),
+            color: const Color.fromARGB(255, 154, 251, 158),
           ),
         ),
         Expanded(
